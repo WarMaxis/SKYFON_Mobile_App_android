@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Android\\Domofon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Android\\Domofon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Aplikacja SKYFON projekt Android Studio 2\\SKYFON\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Android\\Aplikacja SKYFON projekt Android Studio 2\\SKYFON\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tomasz\\Desktop\\Domofon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Tomasz\\Desktop\\Domofon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Tomasz\\Desktop\\Android\\Domofon\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Tomasz\\Desktop\\Android\\Domofon\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
